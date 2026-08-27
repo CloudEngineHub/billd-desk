@@ -57,6 +57,8 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
 - [x] 文件传输
   - [x] 主控->被控
   - [x] 主控<-被控
+- [x] 文字互动
+- [x] 本机被控结束后锁屏
 - [x] 远程开机（WOL）
 - [x] 远程更新客户端版本（Windows）
 - [x] 系统托盘
@@ -80,7 +82,7 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
   - [x] 开启/关闭编码硬件加速
   - [x] 开启/关闭解码硬件加速
   - [x] 开启/关闭零拷贝
-  - [x] NVIDIA显卡（H264/H265/AV1）
+  - [x] NVIDIA显卡（H264/H265/AV1），显卡驱动需要570.0+版本
   - [ ] AMD显卡
 - [x] 屏幕墙
   - [x] 支持Windows/macOS/Android
@@ -156,7 +158,6 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
 
 框架/第三方库：
 
-- Electron
 - Flutter
 - Vue
 - Koa2
