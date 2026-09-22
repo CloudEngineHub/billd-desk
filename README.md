@@ -78,6 +78,7 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
   - [x] 主控<-被控
 - [x] 文字互动
 - [x] 本机被控结束后锁屏
+- [x] 仅允许同账号远程
 - [x] 远程开机（WOL）
 - [x] 远程更新客户端版本（Windows）
 - [x] 系统托盘
